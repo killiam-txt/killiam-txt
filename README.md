@@ -84,7 +84,7 @@
 
 <!-- IMAGE -->
 <td valign="top" align="center">
-  <img src=""
+  <img src="https://github.com/user-attachments/assets/befd649a-d1b9-40a1-9101-10680d59947d"
        alt="profile image" width="220" style="border-radius:12px;">
 </td>
 </tr>
@@ -97,4 +97,5 @@
 
 <br><br>
 <sub>Made in china</sub>
+
 
