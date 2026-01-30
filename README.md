@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23e7e7e7&size=25&center=true&vCenter=true&width=600&height=100&lines=Automation+%26+Machine+Learning;Backend+Logic+%26+Intelligent+Systems" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23e7e7e7&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Development+%26+Intelligent+Systems;Automation+%26+Machine+Learning" alt="Typing SVG">
   </a>
 </p>
 
@@ -97,5 +97,6 @@
 
 <br><br>
 <sub>Made in china</sub>
+
 
 
