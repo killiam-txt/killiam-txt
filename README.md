@@ -84,7 +84,7 @@
 
 <!-- IMAGE -->
 <td valign="top" align="center">
-  <img src="https://github.com/user-attachments/assets/ae5959f1-d200-4be8-940c-ff6737c17688"
+  <img src="https://github.com/user-attachments/assets/0ad51d98-be5b-4d5e-a7f5-71a363a76a89"
        alt="profile image" width="220" style="border-radius:12px;">
 </td>
 </tr>
