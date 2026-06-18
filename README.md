@@ -19,14 +19,14 @@ class Killiam:
 
         self.technologies = {
             "backend":     ["FastAPI", "Flask", "Django"],
-            "databases":   ["PostgreSQL", "MySQL"],
-            "devops":      ["Docker", "Git", "GitHub"],
+            "databases":   ["PostgreSQL", "MySQL", "MongoDB"],
+            "devops":      ["Docker", "Kubernetes", "Jenkins", "aws-cli", "Git", "GitHub"],
             "automation":  ["n8n", "Bash scripting"],
             "ml":          ["learning..."],
             "os":          ["learning..."]
         }
 
-        self.tools         = ["Neovim", "VSCode", "JetBrains"]
+        self.tools         = ["Neovim", "VSCodium"]
         self.current_focus = ["Machine Learning", "Operating Systems", "Rust"]
 
     def __str__(self):
